@@ -1,0 +1,20 @@
+{
+  "name": "backend-bia",
+  "version": "1.0.0",
+  "description": "Prueba técnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelChaparro/backend-bia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelChaparro/backend-bia/issues"
+  },
+  "homepage": "https://github.com/ManuelChaparro/backend-bia#readme"
+}
